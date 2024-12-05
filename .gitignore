@@ -70,7 +70,7 @@ tools/hts_engine_API*
 tools/open_jtalk*
 tools/pyopenjtalk*
 tools/tdmelodic_openjtalk*
-tools/s3prl
+# tools/s3prl
 tools/sctk*
 tools/sph2pipe*
 tools/espeak-ng*
@@ -81,5 +81,10 @@ tools/phonemizer*
 tools/py3mmseg
 tools/anaconda
 tools/ice-g2p
-tools/fairseq
+# tools/fairseq
 tools/._*
+
+# bh:
+tools/
+pretrained/
+egs*/*/*/*old/
